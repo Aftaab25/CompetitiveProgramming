@@ -58,3 +58,5 @@ hs_err_pid*
 # Input and Output
 inputf.in
 outputf.in
+
+.idea/
